@@ -99,10 +99,10 @@ A narrative exploration of gothic aesthetics, religious symbolism and supernatur
 
 ---
 
-\<p align="center">
-&#x20; \<i>"Code is another way to build worlds."\</i>
-\</p>
 
-\<p align="center">
-&#x20; Thanks for visiting my workspace.
-\</p>
+---
+
+> *"Code is another way to build worlds."*
+
+**Thanks for visiting my workspace.**
+
