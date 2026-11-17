@@ -1,12 +1,12 @@
-\<!-- BANNER -->
+<!-- BANNER -->
 
-\<p align="center">   \<img src="assets/banner/profile-banner.png" width="100%" alt="BryanDev - Creative Developer"/> \</p>
+<p align="center"><img src="https://raw.githubusercontent.com/bfenix-gif/bfenix-gif/main/assets/banner/profile-banner.png" width="100%" alt="BryanDev - Creative Developer"/></p>
 
-\<h1 align="center">BRYANDEV\</h1>
+<h1 align="center">BRYANDEV</h1>
 
-\<h3 align="center">Software Engineering Student | Developer in Progress\</h3>
+<h3 align="center">Software Engineering Student | Developer in Progress</h3>
 
-\<p align="center">   \<i>Building systems, exploring ideas and creating worlds through technology.\</i> \</p>
+<p align="center"><i>Building systems, exploring ideas and creating worlds through technology.</i></p>
 
 ---
 
@@ -105,4 +105,3 @@ A narrative exploration of gothic aesthetics, religious symbolism and supernatur
 > *"Code is another way to build worlds."*
 
 **Thanks for visiting my workspace.**
-
