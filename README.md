@@ -22,22 +22,25 @@ My goal is to keep learning, building practical projects and developing my skill
 
 ---
 
+
 ## TECHNICAL BACKGROUND
 
 **Programming Languages**
 
-\<p>   \<img src="[https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)" alt="C++"/>   \<img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)" alt="Python"/>   \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)" alt="JavaScript"/> \</p>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Frameworks & Development**
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)" alt="React"/>
-&#x20; \<img src="[https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white](https://img.shields.io/badge/Godot-478CBF?style=flat-square\&logo=godotengine\&logoColor=white)" alt="Godot"/>
-\</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
 **Databases & Tools**
 
-\<p>   \<img src="[https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=database\&logoColor=white)" alt="SQL"/>   \<img src="[https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)" alt="Git"/>   \<img src="[https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)" alt="GitHub"/> \</p>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
@@ -45,7 +48,7 @@ My goal is to keep learning, building practical projects and developing my skill
 
 I'm interested in expanding my knowledge in:
 
-- **Python:** Strengthening programming skills and exploring data analysis.
+- **Python:** Strengthening programming skills and exploring data analysis and ai enviroment
 - **Rust:** Exploring systems programming and memory-safe development.
 - **R:** Learning statistical computing and data analysis.
 - **SQL:** Improving query writing, relational data concepts and database fundamentals.
